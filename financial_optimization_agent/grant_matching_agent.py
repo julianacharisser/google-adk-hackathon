@@ -1,7 +1,7 @@
 from google.adk.agents import LlmAgent
 from google.adk.tools import google_search
-from tools.grant_database_tool import GrantDatabaseTool
-from tools.grant_eligibility_checker_tool import GrantEligibilityCheckerTool
+
+from financial_optimization_agent.financial_tools import GrantDatabaseTool, GrantEligibilityCheckerTool
 
 # —————————————————————————————
 # Sub-Agent: GrantMatchingAgent
