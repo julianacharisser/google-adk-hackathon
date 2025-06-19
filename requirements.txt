@@ -1,0 +1,7 @@
+# google-agk
+# google-cloud-vision
+# langchain
+# pdfplumber
+# python-docx
+# scikit-learn
+# requests

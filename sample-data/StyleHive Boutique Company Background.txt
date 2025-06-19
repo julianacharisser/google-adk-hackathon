@@ -1,0 +1,88 @@
+﻿Company Background: StyleHive Boutique
+* Name: StyleHive Boutique Pte Ltd
+
+* Industry: Retail – Fashion & Lifestyle
+
+* Founded: 2019
+
+* Headquarters: Orchard Central, Singapore
+
+* Business Model:
+
+   * Brick-and-mortar flagship store in Orchard Central
+
+   * E-commerce site offering curated apparel and accessories
+
+   * Pop-up kiosks during peak shopping seasons (e.g. Christmas, Chinese New Year)
+
+________________
+
+
+1. Ownership & Structure
+      * Shareholders: Two founders (60% / 40%) plus an angel investor (10% equity pool reserved for future hires)
+
+      * Management Team:
+
+         * CEO & Co-Founder: Rachel Lim (former merchandising director at a major department store)
+
+         * COO & Co-Founder: David Tan (10 years in retail operations and supply chain)
+
+         * Finance Manager: John Lee (handles budgeting, forecasting, and compliance filings)
+
+         * Operations Manager: Priya Nair (oversees store processes, inventory, and staff training)
+
+________________
+
+
+2. Operations & Scale
+            * Staff: 25 total (10 full-time floor staff, 5 inventory/logistics, 3 customer service, 7 corporate roles)
+
+            * Annual Revenue: Approx. SGD 2.5 million (2023)
+
+            * Product Lines:
+
+               * Women’s ready-to-wear (dresses, tops, outerwear)
+
+               * Men’s casual wear (shirts, pants, knitwear)
+
+               * Accessories (scarves, bags, jewellery—sourced from local designers)
+
+                  * Key Systems:
+
+                     * POS & Inventory: CloudPOSX (integrated point-of-sale + stock tracking)
+
+                     * E-commerce Platform: Shopify Plus
+
+                     * HRMS & Payroll: Talenox
+
+________________
+
+
+3. Compliance & Filing
+                        * Regulatory Bodies:
+
+                           * ACRA: Annual return filings and corporate compliance
+
+                           * IRAS: Corporate tax (Form C-S), GST reporting (if turnover > SGD 1 million)
+
+                           * PDPA: Customer data protection policies for e-commerce and CRM
+
+                              * Current Pain Points:
+
+                                 * Manual stock count and replenishment creating discrepancies
+
+                                 * Fragmented filing process for tax and GST—multiple spreadsheets and emails
+
+                                 * Onboarding new staff on SOPs takes 2–3 weeks
+
+________________
+
+
+4. Strategic Goals
+                                    1. Operational Excellence: Reduce manual effort in inventory and reporting by 50% in 2024.
+
+                                    2. Digital Integration: Automate key workflows (stock-taking, compliance reminders, training) via the SME Digitalisation Suite.
+
+                                    3. Staff Development: Standardise onboarding with clear, risk-assessed SOPs to shorten ramp-time to 1 week.
+
+                                    4. Regulatory Accuracy: Achieve 100% on-time ACRA/IRAS filings and eliminate late-submission penalties.

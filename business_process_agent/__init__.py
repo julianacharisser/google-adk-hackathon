@@ -1,0 +1,6 @@
+# Import actual agent instances
+from .document_ingestion_agent import document_ingestion_agent
+from .process_mining_agent import process_mining_agent
+from .pattern_detection_agent import pattern_detection_agent
+from .benchmarking_agent import benchmarking_agent
+from .roi_estimation_agent import roi_estimation_agent

@@ -1,0 +1,103 @@
+﻿Standard Operating Procedure (SOP)
+ 
+Title: Daily Inventory Audit & Replenishment
+Document No.: RET-SOP-001
+Version: 1.0
+Date: 1 July 2024
+Prepared by: Operations Manager
+Approved by: General Manager
+
+
+1. Purpose
+To ensure accurate stock levels and timely replenishment at StyleHive Boutique, minimizing stock-outs and over-stock risks.
+
+
+2. Scope
+Applies to all floor staff, inventory clerks and store managers involved in daily stock audits, ordering and receiving deliveries.
+
+
+3. Roles & Responsibilities
+Role
+	Responsibilities
+	Goal / Outcome
+	Floor Staff
+	– Count shelf and display stock– Note discrepancies
+	Provide accurate, up-to-date stock counts
+	Inventory Clerk
+	– Reconcile counts– Generate reorder recommendations
+	Ensure data integrity and timely ordering
+	Store Manager
+	– Approve purchase orders– Oversee receiving process
+	Authorize restocks and verify delivery accuracy
+	
+
+
+
+4. Risk Assessment
+Before execution, assess these risks and obstacles:
+* Miscounting → human error → stock-out or over-stock → lost sales or excess holding cost
+
+* System downtime → delay in order generation → replenishment lag
+
+* Supplier lead-time variability → stock gap → customer dissatisfaction
+
+Mitigations:
+   * Use two-person counts on high-value items
+
+   * Fallback to manual order form if system is unavailable
+
+   * Maintain 1-week safety buffer stock for top-50 SKUs
+
+5. Procedure
+5.1. Define Task & Format (Meta-Step)
+This SOP uses a numbered list format for clarity. It will be stored online in the company intranet and a printed copy kept at the store office.
+5.2. Identify Dependencies & Audience
+– Dependencies: POS system, supplier portals, Goods-in-Transit logs.
+– Audience: Trained floor staff and inventory clerks; new hires must shadow experienced staff before performing independently.
+5.3. Step-By-Step Workflow
+      1. Begin Inventory Audit (Floor Staff)
+ 1.1. Log in to the POS dashboard; select “Inventory → Daily Count.”
+1.2. Walk the sales floor, count each SKU on shelf and display.
+1.3. Enter actual counts into the mobile app.
+
+      2. Reconcile & Report (Inventory Clerk)
+ 2.1. Export “today’s count” from POS and compare against system on-hand levels.
+2.2. Highlight any variance >5% in the variance report.
+2.3. Save report as PDF and upload to the “Inventory Reports” folder.
+
+      3. Generate Purchase Orders (Inventory Clerk)
+ 3.1. For any SKU at or below reorder threshold, create a purchase order (PO) in the Procurement module.
+3.2. Populate supplier, SKU, quantity (to reach par level), and desired delivery date (two weeks out).
+3.3. Submit PO for approval.
+
+      4. Approve Orders (Store Manager)
+ 4.1. Review pending POs by 11 AM daily.
+4.2. Verify quantities against sales forecast and budget.
+4.3. Click “Approve” or “Return for Revision” in the Procurement module.
+
+      5. Receive & Inspect Deliveries (Floor Staff + Store Manager)
+ 5.1. Upon delivery, scan supplier packlist into the Goods-in-Transit system.
+5.2. Floor Staff to count received cartons and SKUs.
+5.3. Store Manager to inspect for damage; sign off on “Delivery Acceptance” form.
+5.4. Update POS on-hand levels immediately.
+
+      6. Archive & Communicate (Inventory Clerk)
+ 6.1. Save signed delivery acceptance and revised on-hand report in the “Compliance” folder.
+6.2. Email daily stock summary to Finance and Purchasing teams by 4 PM.
+
+6. Related Documents
+         * Inventory Count Template (Form INV-TPL-01)
+
+         * Purchase Order Guidelines (Proc-Guide-02)
+
+         * Delivery Acceptance Form (Form DA-03)
+
+7. Revision History
+Version
+	Date
+	Change Description
+	Author
+	1.0
+	01 Jul 2024
+	Initial release
+	Operations Manager
